@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+h2{
+  text-align: left;
+}
+
+body{
+  background-color: #FFF;
+  }
+
+.bg-image-pq {
+  background-image: url(https://c1.staticflickr.com/9/8403/8691821209_6457b6e42e_b.jpg);
+  background-size:400px;
+  background-position: center;
+}
+
+.tab {
+       display:inline-block;
+       margin-left: 50px;
+}
+.website {
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+}
