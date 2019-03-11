@@ -1,5 +1,17 @@
-.bj-image-j {
+.bj-image-hj {
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/44/Hella_Jongerius_at_Opening_Delegates_Lounge.jpg);
-  background-size: contain;
+  background-size: 280px;
   background-position: center;
+}
+
+.website {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
 }
